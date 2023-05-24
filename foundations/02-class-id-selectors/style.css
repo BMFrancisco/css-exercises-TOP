@@ -1,0 +1,16 @@
+#id-first{
+    font-size: 36px;
+    color: #0000ff9a;
+}
+#id-second{
+    font-size: 24px;
+    background-color: hsl(120, 88%, 40%);
+    font-weight: bold;
+}
+.odd-number{
+    background-color: hwb(332 47% 4%);
+    font-family: verdana, "dejavu sans", sans-serif;
+}
+.new-font{
+    font-size: 24px;
+}
